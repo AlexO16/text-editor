@@ -13,6 +13,7 @@
   * [Credits](#credits)
 
   # Screenshot
+![Screen Shot 2022-11-10 at 4 28 03 PM](https://user-images.githubusercontent.com/110851664/201222633-0162804f-1631-44f0-9448-1481dd72c8cf.png)
 
 
   # Installation
